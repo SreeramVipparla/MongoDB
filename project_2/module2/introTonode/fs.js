@@ -5,6 +5,7 @@ let path = require("path");
 // let filePath = path.join(__dirname,"file.txt");
 // // console.log(filePath);
 
+
 // //C-create
 // //it creates file if it does not exists else it override
 // fs.writeFileSync(filePath,"Hello I am a text file ");
